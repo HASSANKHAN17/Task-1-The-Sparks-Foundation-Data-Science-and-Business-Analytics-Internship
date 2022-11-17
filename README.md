@@ -9,7 +9,7 @@ Task Name: Predict the percentage of an student based on number of study hours w
 Language - Python
 
 IDE - Google Colab
-**
+
 Dataset Link: http://bit.ly/w-data
 
 My Info:
