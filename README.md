@@ -1,10 +1,15 @@
 # Task-1-The-Sparks-Foundation-Data-Science-and-Business-Analytics-Internship
 
 Author: MOHAMMED HASSAN KHAN
+
 Task No.: 01
+
 Task Name: Predict the percentage of an student based on number of study hours with Supervised Machine Learning
+
 Language - Python
+
 IDE - Google Colab
+
 Dataset Link: http://bit.ly/w-data
 
 My Info:
